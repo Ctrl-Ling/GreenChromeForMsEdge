@@ -8,7 +8,7 @@
 
 #### 此工具参考 https://blog.shuax.com/archives/setdll.html
 
-#### 打包下载：`https://github.com/Ctrl-Ling/GreenChromeForMsEdge/releases`
+#### 打包下载：https://github.com/Ctrl-Ling/GreenChromeForMsEdge/releases
 
 ### what id I do？
 
